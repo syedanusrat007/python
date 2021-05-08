@@ -1,0 +1,5 @@
+t=12.5/100
+p=100.5
+print p*t
+print p+_
+print round(_,2)
